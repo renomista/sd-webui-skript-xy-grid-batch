@@ -1,0 +1,9 @@
+[
+	{"xvalues":"8-13","yvalues":"20,35,65"},
+	{"xvalues":"8-13"},
+	{"yvalues":"20,35,65"},
+	{"xvalues":"8-3","yvalues":"20,35,65", "prompt":"beautiful young woman, smiling, wearing a colorful sundress, full body shot"},
+	{"seed":2368520650,"xvalues":"8-13","yvalues":"20,35,65"},
+	{"seed":2368920650,"yvalues":"20,35,65","negative_prompt":"european, blond"},
+	{"xvalues":"8-13","yvalues":"20,35,65","prompt":"beautiful older woman, smiling, wearing a black and white etui dress, full body shot","negative_prompt":"short hair, european"}
+]
